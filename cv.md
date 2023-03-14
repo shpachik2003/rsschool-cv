@@ -15,15 +15,17 @@
 
 
 # Skills
-HTML  
-CSS  
-JavaScript  
-React  
-Git  
-UI/UX Design  
-Photoshop  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Git  
+- Figma  
+- Photoshop  
 
 # Experience
+2020 - now UI/UX designer and front-end developer (e-commerce website with CRM and accounting system)
+
 # Code example
 
 ```
@@ -49,4 +51,10 @@ function l3MainSliderBtnClick(e){
 ```
 
 # Courses
+2022: UX/UI-design IT-Academy
+
 # Languages
+English: B2  
+Russian: native  
+Polish: B1  
+Belorussian: B2
