@@ -1,17 +1,21 @@
 ## KRISTINA NAYDENOVA
 
-![Текст с описанием картинки](/images/picture.jpg)
+![Текст с описанием картинки](/pic.jpg)
 
 # Contacts
 
 **Tel.** +48 574 166 151  
-**e-mail** kristina.kristina@gmail.com  
-**Discord** KristinaN#6531
+**e-mail** kristina.shpakovskaya@gmail.com  
+**Discord** KristinaN#6531  
 [Behance](https://www.behance.net/e09138a5)
 
 
 
 # About
+I am an enthusiastic person currently pursuing a career in Front End Development. Have a passion for learning and constantly strive to expand my knowledge and skill set. I am a fast learner who is not afraid to tackle difficult challenges.
+
+Dedicated to personal and professional growth, and I am committed to making a positive impact on both the company and society as a whole. 
+Overall, I am excited to bring my skills and enthusiasm to a company where I can continue to learn and grow, while making a meaningful contribution to the team and society.
 
 
 # Skills
@@ -56,5 +60,6 @@ function l3MainSliderBtnClick(e){
 # Languages
 English: B2  
 Russian: native  
-Polish: B1  
-Belorussian: B2
+Polish: A2  
+Belarusian: B2  
+Ukrainian: B2
