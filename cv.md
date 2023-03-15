@@ -8,11 +8,11 @@
 
 ## About
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non enim et lectus faucibus ullamcorper. Maecenas interdum pellentesque scelerisque. In sed nunc interdum, vestibulum augue sit amet, aliquam felis. Curabitur porta massa in venenatis malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur efficitur elit malesuada hendrerit elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc accumsan lorem ac lorem sodales tempus. Nulla urna dolor, luctus id rhoncus vel, euismod ac nibh.
-***
-## Skills
 
+## Skills
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non enim et lectus faucibus ullamcorper. Maecenas interdum pellentesque scelerisque. In sed nunc interdum, vestibulum augue sit amet, aliquam felis. Curabitur porta massa in venenatis malesuada.  
 ## Experience
- 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non enim et lectus faucibus ullamcorper. Maecenas interdum pellentesque scelerisque. In sed nunc interdum, vestibulum augue sit amet, aliquam felis. Curabitur porta massa in venenatis malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur efficitur elit malesuada hendrerit elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc accumsan lorem ac lorem sodales tempus. Nulla urna dolor, luctus id rhoncus vel, euismod ac nibh. 
 ## Code example
 ```
 function l3MainSliderBtnClick(e){
