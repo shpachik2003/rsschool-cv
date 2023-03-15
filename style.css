@@ -1,0 +1,15 @@
+.header {
+	top:1rem;
+}
+
+.main {
+	padding-top:6rem;
+}
+
+.posLeft {
+	margin-left:-66%;
+}
+
+.posCenter {
+	margin-left:33%;
+}
